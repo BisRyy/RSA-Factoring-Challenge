@@ -1,2 +1,1 @@
-# RSA-Factoring-Challenge
-RSA Factoring Challenge project
+Here you will find code related to Factoring & RSA Challenge
